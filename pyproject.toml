@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cli-bible"
+version = "0.1.0"
+description = ""
+authors = ["Felipe <104157442+justafewwords4@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "cli_bible"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
