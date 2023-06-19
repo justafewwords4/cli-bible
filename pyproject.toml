@@ -9,6 +9,9 @@ packages = [{include = "cli_bible"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 
+[tool.poetry.scripts]
+
+bible-cli = "cli_bible.app:run"
 
 [build-system]
 requires = ["poetry-core"]
