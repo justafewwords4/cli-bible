@@ -1,1 +1,4 @@
 .venv/
+*.zip
+__pycache__/
+.trunk/

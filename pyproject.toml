@@ -4,14 +4,20 @@ version = "0.1.0"
 description = ""
 authors = ["Felipe <104157442+justafewwords4@users.noreply.github.com>"]
 readme = "README.md"
-packages = [{include = "cli_bible"}]
+packages = [{ include = "cli_bible" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+textual = {extras = ["all"], version = "^0.28.1"}
+typer = {extras = ["dev"], version = "^0.9.0"}
+pyyaml = "^6.0"
 
 [tool.poetry.scripts]
 
-bible-cli = "cli_bible.app:run"
+clibib = "cli_bible.app:run"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.3.2"
 
 [build-system]
 requires = ["poetry-core"]
