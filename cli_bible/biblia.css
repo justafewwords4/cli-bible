@@ -1,0 +1,22 @@
+MenuTree {
+  border: heavy white;
+  min-width: 10%;
+  max-width: 25%;
+}
+
+Label {
+  text-align: center;
+  width: 100%;
+}
+
+Horizontal {
+  align: center top;
+}
+
+MyContent {
+  width: 1fr;
+}
+
+MyContent > #chapter {
+  align: center top;
+}
