@@ -16,7 +16,3 @@ Horizontal {
 MyContent {
   width: 1fr;
 }
-
-MyContent > #chapter {
-  align: center top;
-}

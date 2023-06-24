@@ -9,8 +9,8 @@ Biblias tomadas de [ebible.org](https://ebible.org/find/)
 ## ToDo
 
 - DONE: Manejar archivos de configuración
-- TODO: Maquetar la app
+- DONE: Maquetar la app
 - TODO: Organizar el texto por libros (directorio) y capítulos (1 archivo por
   cada capítulo)
 - TODO: Organizar planes
-- TODO: Descargar la biblia
+- TODO: Descargar la biblia, para no incluirlo en el paquete.
