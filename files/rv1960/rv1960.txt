@@ -36,6 +36,7 @@ __chapter: chapter: Génesis 1
 30 Y a toda bestia de la tierra, y a todas las aves de los cielos, y a todo lo que se arrastra sobre la tierra, en que hay vida, toda planta verde les será para comer. Y fue así.
 31 Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto.
 
+
 __chapter: Génesis 2
 
 1 Fueron, pues, acabados los cielos y la tierra, y todo el ejército de ellos.
@@ -67,6 +68,39 @@ __sub_title: El hombre en el huerto del Edén
 24 Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.
 25 Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban. 
 
+__chapter: Génesis 2
+
+1 Fueron, pues, acabados los cielos y la tierra, y todo el ejército de ellos.
+2 Y acabó Dios en el día séptimo la obra que hizo; y reposó el día séptimo de toda la obra que hizo.
+3 Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación.
+
+__sub_title: El hombre en el huerto del Edén
+
+4 Estos son los orígenes de los cielos y de la tierra cuando fueron creados, el día que Jehová Dios hizo la tierra y los cielos,
+5 y toda planta del campo antes que fuese en la tierra, y toda hierba del campo antes que naciese; porque Jehová Dios aún no había hecho llover sobre la tierra, ni había hombre para que labrase la tierra,
+6 sino que subía de la tierra un vapor, el cual regaba toda la faz de la tierra.
+7 Entonces Jehová Dios formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida, y fue el hombre un ser viviente.
+8 Y Jehová Dios plantó un huerto en Edén, al oriente; y puso allí al hombre que había formado.
+9 Y Jehová Dios hizo nacer de la tierra todo árbol delicioso a la vista, y bueno para comer; también el árbol de vida en medio del huerto, y el árbol de la ciencia del bien y del mal.
+10 Y salía de Edén un río para regar el huerto, y de allí se repartía en cuatro brazos.
+11 El nombre del uno era Pisón; éste es el que rodea toda la tierra de Havila, donde hay oro;
+12 y el oro de aquella tierra es bueno; hay allí también bedelio y ónice.
+13 El nombre del segundo río es Gihón; éste es el que rodea toda la tierra de Cus.
+14 Y el nombre del tercer río es Hidekel; éste es el que va al oriente de Asiria. Y el cuarto río es el Eufrates.
+15 Tomó, pues, Jehová Dios al hombre, y lo puso en el huerto de Edén, para que lo labrara y lo guardase.
+16 Y mandó Jehová Dios al hombre, diciendo: De todo árbol del huerto podrás comer;
+17 mas del árbol de la ciencia del bien y del mal no comerás; porque el día que de él comieres, ciertamente morirás.
+18 Y dijo Jehová Dios: No es bueno que el hombre esté solo; le haré ayuda idónea para él.
+19 Jehová Dios formó, pues, de la tierra toda bestia del campo, y toda ave de los cielos, y las trajo a Adán para que viese cómo las había de llamar; y todo lo que Adán llamó a los animales vivientes, ese es su nombre.
+20 Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo; mas para Adán no se halló ayuda idónea para él.
+21 Entonces Jehová Dios hizo caer sueño profundo sobre Adán, y mientras éste dormía, tomó una de sus costillas, y cerró la carne en su lugar.
+22 Y de la costilla que Jehová Dios tomó del hombre, hizo una mujer, y la trajo al hombre.
+23 Dijo entonces Adán: Esto es ahora hueso de mis huesos y carne de mi carne; ésta será llamada Varona, porque del varón fue tomada.
+24 Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.
+25 Y estaban ambos desnudos, Adán y su mujer, y no se avergonzaban. 
+
+
+
 __sub_title: Desobediencia del hombre
 
 __chapter: Génesis 3
@@ -95,6 +129,8 @@ __chapter: Génesis 3
 22 Y dijo Jehová Dios: He aquí el hombre es como uno de nosotros, sabiendo el bien y el mal; ahora, pues, que no alargue su mano, y tome también del árbol de la vida, y coma, y viva para siempre.
 23 Y lo sacó Jehová del huerto del Edén, para que labrase la tierra de que fue tomado.
 24 Echó, pues, fuera al hombre, y puso al oriente del huerto de Edén querubines, y una espada encendida que se revolvía por todos lados, para guardar el camino del árbol de la vida. 
+
+
 
 __sub_title: Caín y Abel
 
@@ -126,6 +162,8 @@ __chapter: Génesis 4
 24 Si siete veces será vengado Caín, Lamec en verdad setenta veces siete lo será.
 25 Y conoció de nuevo Adán a su mujer, la cual dio a luz un hijo, y llamó su nombre Set: Porque Dios (dijo ella) me ha sustituido otro hijo en lugar de Abel, a quien mató Caín.
 26 Y a Set también le nació un hijo, y llamó su nombre Enós. Entonces los hombres comenzaron a invocar el nombre de Jehová. 
+
+
 
 __sub_title: Los descendientes de Adán
 
@@ -165,6 +203,8 @@ __chapter: Génesis 5
 30 Y vivió Lamec, después que engendró a Noé, quinientos noventa y cinco años, y engendró hijos e hijas.
 31 Y fueron todos los días de Lamec setecientos setenta y siete años; y murió.
 32 Y siendo Noé de quinientos años, engendró a Sem, a Cam y a Jafet. 
+
+
 
 __sub_title: La maldad de los hombres
 
@@ -225,6 +265,8 @@ __chapter: Génesis 7
 23 Así fue destruido todo ser que vivía sobre la faz de la tierra, desde el hombre hasta la bestia, los reptiles, y las aves del cielo; y fueron raídos de la tierra, y quedó solamente Noé, y los que con él estaban en el arca.
 24 Y prevalecieron las aguas sobre la tierra ciento cincuenta días. 
 
+
+
 __chapter: Génesis 8
 
 1 Y se acordó Dios de Noé, y de todos los animales, y de todas las bestias que estaban con él en el arca; e hizo pasar Dios un viento sobre la tierra, y disminuyeron las aguas.
@@ -249,6 +291,8 @@ __chapter: Génesis 8
 20 Y edificó Noé un altar a Jehová, y tomó de todo animal limpio y de toda ave limpia, y ofreció holocausto en el altar.
 21 Y percibió Jehová olor grato; y dijo Jehová en su corazón: No volveré más a maldecir la tierra por causa del hombre; porque el intento del corazón del hombre es malo desde su juventud; ni volveré más a destruir todo ser viviente, como he hecho.
 22 Mientras la tierra permanezca, no cesarán la sementera y la siega, el frío y el calor, el verano y el invierno, y el día y la noche. 
+
+
 
 __sub_title: Pacto de Dios con Noé
 
@@ -285,6 +329,8 @@ __sub_title: Embriaguez de Noé
 26 Dijo más: Bendito por Jehová mi Dios sea Sem, Y sea Canaán su siervo.
 27 Engrandezca Dios a Jafet, Y habite en las tiendas de Sem, Y sea Canaán su siervo.
 28 Y vivió Noé después del diluvio trescientos cincuenta años. 
+
+
 
 __sub_title: Los descendientes de los hijos de Noé
 
@@ -324,6 +370,8 @@ __chapter: Génesis 10
 30 Y la tierra en que habitaron fue desde Mesa en dirección de Sefar, hasta la región montañosa del oriente. 
 31 Estos fueron los hijos de Sem por sus familias, por sus lenguas, en sus tierras, en sus naciones. 
 32 Estas son las familias de los hijos de Noé por sus descendencias, en sus naciones; y de éstos se esparcieron las naciones en la tierra después del diluvio. 
+
+
 
 __sub_title: La torre de Babel
 
@@ -369,6 +417,8 @@ __sub_title: Los descendientes de Taré
 31 Y tomó Taré a Abram su hijo, y a Lot hijo de Harán, hijo de su hijo, y a Sarai su nuera, mujer de Abram su hijo, y salió con ellos de Ur de los caldeos, para ir a la tierra de Canaán; y vinieron hasta Harán, y se quedaron allí. 
 32 Y fueron los días de Taré doscientos cinco años; y murió Taré en Harán. 
 
+
+
 __sub_title: Dios llama a Abram
 
 __chapter: Génesis 12
@@ -396,6 +446,7 @@ __sub_title: Abram en Egipto
 18 Entonces Faraón llamó a Abram, y le dijo: ¿Qué es esto que has hecho conmigo? ¿Por qué no me declaraste que era tu mujer? 
 19 ¿Por qué dijiste: Es mi hermana, poniéndome en ocasión de tomarla para mí por mujer? Ahora, pues, he aquí tu mujer; tómala, y vete. 
 20 Entonces Faraón dio orden a su gente acerca de Abram; y le acompañaron, y a su mujer, con todo lo que tenía. 
+
 
 __sub_title: Abram y Lot se separan
 
@@ -451,6 +502,7 @@ __sub_title: Melquisedec bendice a Abram
 22 Y respondió Abram al rey de Sodoma: He alzado mi mano a Jehová Dios Altísimo, creador de los cielos y de la tierra, 
 23 que desde un hilo hasta una correa de calzado, nada tomaré de todo lo que es tuyo, para que no digas: Yo enriquecí a Abram; 
 24 excepto solamente lo que comieron los jóvenes, y la parte de los varones que fueron conmigo, Aner, Escol y Mamre, los cuales tomarán su parte. 
+
 
 __sub_title: Dios promete a Abram un hijo
 

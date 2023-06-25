@@ -1,7 +1,7 @@
 from textual.app import ComposeResult
 from textual.widgets import MarkdownViewer
 
-MARKDOWN_EXAMPLE = """
+MARKDOWN_CONTENT = """
 # Libro - Capítulo
 
 primera parte en **negritas**

@@ -1,2 +1,2 @@
-from .content import MARKDOWN_EXAMPLE, MyContent
+from .content import MARKDOWN_CONTENT, MyContent
 from .menu_tree import MenuTree

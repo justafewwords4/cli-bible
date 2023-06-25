@@ -10,7 +10,8 @@ Biblias tomadas de [ebible.org](https://ebible.org/find/)
 
 - DONE: Manejar archivos de configuración
 - DONE: Maquetar la app
-- TODO: Organizar el texto por libros (directorio) y capítulos (1 archivo por
+- TODO: Empezar con esto. Organizar el texto por libros (directorio) y capítulos (1 archivo por
   cada capítulo)
+- TODO: Seguir con la lectura secuencial
 - TODO: Organizar planes
 - TODO: Descargar la biblia, para no incluirlo en el paquete.

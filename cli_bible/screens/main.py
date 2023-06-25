@@ -1,10 +1,13 @@
+import sys
+
 from textual import events
 from textual.app import ComposeResult
 from textual.containers import Horizontal
 from textual.screen import Screen
 from textual.widgets import Footer, Header
 
-from ..widgets import MARKDOWN_EXAMPLE, MenuTree, MyContent
+from ..modules import Config, FilesToWalk
+from ..widgets import MARKDOWN_CONTENT, MenuTree, MyContent
 
 
 class Main(Screen):
@@ -15,7 +18,15 @@ class Main(Screen):
         ("t", "toggle_table_of_contents", "TOC"),
         ("b", "back", "Back"),
         ("f", "forward", "Forward"),
+        ("n", "load_next", "Next Chapter"),
+        ("p", "load_previous", "Previous Chapter"),
     ]
+
+    config = Config()
+    work_directory = "/home/felipe/dev/cli-bible/files/rv1960"
+    actual_file = 1
+    list_files = FilesToWalk(work_directory)
+    total_files = len(list_files.files)
 
     def compose(self) -> ComposeResult:
         yield Header("Read the Bible")
@@ -28,7 +39,11 @@ class Main(Screen):
         planes_disponibles.add_leaf("Antiguo y Nuevo Testamento")
         with Horizontal():
             yield menu_tree
-            yield MyContent(MARKDOWN_EXAMPLE, id="viewer", show_table_of_contents=False)
+            yield MyContent(
+                self.list_files.files[self.actual_file],
+                id="viewer",
+                show_table_of_contents=False,
+            )
 
     @property
     def markdown_viewer(self) -> MyContent:
@@ -44,3 +59,31 @@ class Main(Screen):
 
     def action_forward(self) -> None:
         self.markdown_viewer.action_page_down()
+
+    async def load_chapter(self) -> None:
+        """load self.actual_file"""
+        file_to_load = str(
+            f"{self.work_directory}/{self.list_files.files[self.actual_file]}"
+        )
+        if not await self.markdown_viewer.go(file_to_load):
+            sys.exit(1)
+
+    async def action_load_next(self) -> None:
+        """Cargar el siguiente capítulo"""
+
+        if self.actual_file < self.total_files - 1:
+            self.actual_file += 1
+        else:
+            self.actual_file = 0
+
+        await self.load_chapter()
+
+    async def action_load_previous(self) -> None:
+        """Cargar el archivo previo"""
+
+        if self.actual_file > 1:
+            self.actual_file -= 1
+        else:
+            self.actual_file = self.total_files
+
+        await self.load_chapter()
